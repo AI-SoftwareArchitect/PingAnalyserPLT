@@ -12,4 +12,3 @@ pip install -r requirements.txt
 ```bash
 python ping_analyser_plt.py -u <any_website> -t <time>
 ```
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eQG6bkJDS4w/0.jpg)](https://www.youtube.com/watch?v=eQG6bkJDS4w)
